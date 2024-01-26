@@ -1,6 +1,5 @@
 node_modules
-/src/*
-!/src/scanner.c
+.DS_Store
 *.swp
 /build
 Cargo.lock
